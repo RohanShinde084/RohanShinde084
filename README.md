@@ -109,11 +109,11 @@ me.say_hi()
 
 ---
 
-## 🏆 GitHub Trophies
+## 📅 GitHub Activity Graph
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=RohanShinde084&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RohanShinde084&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00d4ff&line=00d4ff&point=ffffff&area=true&area_color=00d4ff" width="100%" />
 
 </div>
 
